@@ -1,0 +1,17 @@
+This project was very enjoyable for me to engage with, 
+and I feel like I learned a lot of applicable skills for both
+python and coding in general. Throughout this project I enjoyed 
+being able to go with it in the direction I wanted, and while I ended up
+changing plans from my original idea of a Minecraft world save file copier script
+to a RSS feedparser script, I still had a great time learning how to apply 
+this dictionary and call member-functions within it. I now have a much better grasp
+on how dictionaries work in general, and also how RSS feeds are used and parsed
+for certain elements. If I had more time with this project, and had I not been 
+moving this last I week, I would have loved to have gone farther with it,
+but I will be taking this code into the future and hopefully expanding on it.
+This script takes in two RSS feeds from the Minecraft and Science subreddits 
+and looks at how many entries have been posted in each today. Then, the program
+outputs which subreddit had more posts today. I have also left some commented
+out code I would like to return to for iterating through date published for each 
+article, and using that information.
+
